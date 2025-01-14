@@ -101,9 +101,18 @@ The following data quality functions are available:
 
 ## **Screenshots**
 
+![Screenshot 2025-01-14 204539](https://github.com/user-attachments/assets/f8fec863-86d4-4987-9bd8-5e42a472e070)
+
+![Screenshot 2025-01-14 204812](https://github.com/user-attachments/assets/9151bb4f-ab1e-4643-8a69-c7a99af62845)
+
+![Screenshot 2025-01-14 205244](https://github.com/user-attachments/assets/613e42b0-5c48-42ed-a7c8-c75b2d9529a8)
+
 
 ### **Spreadsheet Interface**
- Live Priview : 
+ Live Priview : https://google-sheet-mimick-mrmj.vercel.app/ [ only Frontend React ]
+ 
+ Note : plase clone Repo or download zip and run both React & Python flask Locally for Final Output.
+ 
 
 ### **Toolbar and Functions**
 React - Frontend
@@ -115,7 +124,7 @@ Json - Local Storage
 
 ## **GitHub Repository**
 The source code for this project is available at:
-[GitHub Repository Link](https://github.com/your-username/google-sheets-mimic)
+[GitHub Repository Link](https://github.com/LucifeRsKingdoM/Google-sheet-mimick)
 
 ---
 
