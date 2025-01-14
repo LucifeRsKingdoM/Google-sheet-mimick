@@ -115,9 +115,9 @@ The following data quality functions are available:
  
 
 ### **Toolbar and Functions**
-React - Frontend
-Python - Backend
-Flask - API
+React - Frontend, 
+Python - Backend, 
+Flask - API, 
 Json - Local Storage
 
 ---
