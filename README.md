@@ -111,7 +111,7 @@ The following data quality functions are available:
 ### **Spreadsheet Interface**
  Live Priview : https://google-sheet-mimick-mrmj.vercel.app/ [ only Frontend React ]
  
- Note : plase clone Repo or download zip and run both React & Python flask Locally for Final Output.
+ Note : please clone Repo or download zip and run both React & Python flask Locally for Final Output.
  
 
 ### **Toolbar and Functions**
