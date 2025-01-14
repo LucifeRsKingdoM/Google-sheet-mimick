@@ -73,7 +73,7 @@ The following data quality functions are available:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/google-sheets-mimic.git
+   git clone https://github.com/LucifeRsKingdoM/Google-sheet-mimick.git
    cd google-sheets-mimic
    ```
 2. Install dependencies:
